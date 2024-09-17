@@ -1,18 +1,10 @@
-## Getting Started
+LOG IN PROGRAM IN JAVA
+The programe has is a Java dependant system that uses a frame work with the SRC folder containing four files;
+-App/main file
+-Log in file
+-welcome screen file
+-userID and password storage file
+The main/app file initializes the programe and navigates the user to the log in page, the log in page has multiple lines each with a specific use. On this page the user will find the the username and password slots where they can add in their user names and password and then tap the log in button leading to the welcome page if sucessful. The login file conatins lines of code with comments from loginbutton(variable) to lables and functions that create these options the user can interact witt. There are a couple of comments to also explain the function behind each amalgam of codes. 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
